@@ -1,0 +1,29 @@
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.navbar-sub-container {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-image {
+  width: 120px;
+}
+
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #c3cad9;
+  border-radius: 3px;
+  padding: 8px 20px 8px 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+}

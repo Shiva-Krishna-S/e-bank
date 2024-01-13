@@ -1,0 +1,24 @@
+.home-page-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+
+.home-page-content-container {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-page-title {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.digital-card-image {
+  width: 65%;
+  max-width: 650px;
+}
